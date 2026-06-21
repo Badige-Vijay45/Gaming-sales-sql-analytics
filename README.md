@@ -42,5 +42,5 @@ Identifies high-value marketplace items priced over $30 and appends custom finan
 Aggregates global unit performance across publishers to determine the exact cash-flow contribution of each partner studio, sorted in strict descending order.
 
 ---
-**Author:** Vijay (Kaizenboi)  
+**Author:** Vijay
 **Role:** Junior Data Analyst / SQL Developer
